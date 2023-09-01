@@ -4,10 +4,17 @@ ReactGram é mais do que apenas uma aplicação - é a maneira perfeita de compa
 
 ## Tecnologias Utilizadas 🚀
 
-- **Frontend:** Desenvolvido com o poderoso framework [React.js](https://reactjs.org/) e JavaScript.
-- **State Management:** Gerencie o estado da aplicação de forma eficiente com [Redux](https://redux.js.org/).
-- **Componentização:** Componentes reutilizáveis para uma manutenção fácil e escalabilidade.
-- **Uploads de Imagens:** Capacidade de compartilhar suas imagens favoritas e vê-las instantaneamente.
+- **Frontend Poderoso: Desenvolvido com o renomado framework React.js e JavaScript, o ReactGram oferece uma interface de usuário dinâmica e altamente responsiva.
+
+- **Gerenciamento de Estado Eficiente: A aplicação é aprimorada com o gerenciamento de estado usando Redux, permitindo um controle coeso do estado da aplicação e aprimorando a 
+  escalabilidade.
+
+- **Componentização Flexível: O ReactGram é projetado com componentes reutilizáveis, tornando a manutenção e a escalabilidade do código uma tarefa mais fácil e organizada.
+
+- **Compartilhamento de Imagens Instantâneas: Uma característica notável do ReactGram é a capacidade de fazer uploads de imagens e visualizá-las instantaneamente, tornando o 
+  processo de compartilhamento de momentos ainda mais envolvente.
+
+- **React Router e Navegação: O uso do React Router permite uma navegação tranquila entre diferentes seções do aplicativo, garantindo uma experiência de usuário contínua.
 
 ## Sobre Mim 👨‍💻
 
