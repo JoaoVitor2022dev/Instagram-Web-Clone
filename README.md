@@ -1,4 +1,4 @@
-# ReactGram - Compartilhando Momentos com Estilo 📸
+# Instagram Web Clone - Compartilhando Momentos com Estilo 📸
 
 ReactGram é mais do que apenas uma aplicação - é a maneira perfeita de compartilhar seus momentos favoritos de forma estilosa e interativa! Construído com amor usando tecnologias incríveis como React, Redux e muito mais.
 
