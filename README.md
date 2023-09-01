@@ -19,6 +19,3 @@ Olá, meu nome é João Vitor, um entusiasta do desenvolvimento de software em b
 
 ## Configuração Local 🛠️
 
-1. Clone este repositório:
-
-```bash
